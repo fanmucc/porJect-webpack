@@ -8,11 +8,12 @@
     "react-scripts": "1.1.5"
   },
   "scripts": {
+    "homepage": "https://fanmucc.github.io/porJect-webpack/build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
-    "homepage": "https://fanmucc.github.io/porJect-webpack/build"
+    "eject": "react-scripts eject"
+    
   }
   
 }
