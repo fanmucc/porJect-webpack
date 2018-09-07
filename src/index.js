@@ -8,7 +8,7 @@ function component() {
     // return element
 
     var element = j('<div></div>')
-    element.html(_.join(['Hello111','webpack'],' '))
+    element.html(_.join(['Hiaaa22aa','webpack'],' '))
     return element.get(0)
     
 }
