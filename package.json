@@ -12,7 +12,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "homepage": "https://jirengu-inc.github.io/porJect-webpack/build"
+    "homepage": "https://fanmucc.github.io/porJect-webpack/build"
   }
   
 }
